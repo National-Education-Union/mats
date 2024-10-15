@@ -1,4 +1,4 @@
-This short report on multi-academy trusts (MATs) draws on a number of government sources.
+This short report on multi-academy trusts (MATs) draws on a number of government sources of data.
 
 ## Teacher Retention
 The teacher retention figures and the proportion of teachers who left the profession were found through a successful [Freedom of Information request](https://www.whatdotheyknow.com/request/teacher_retention_figures_by_sch#comment-119695).
