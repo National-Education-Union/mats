@@ -14,7 +14,7 @@ To calculate the MAT top slice, we divided the total expenditure for the MAT (sh
 
 
 ## Gender Pay Pay
-All the information on the disparity between men's and women's earnings is taken from the government's [Gender pay gap service](https://gender-pay-gap.service.gov.uk/).
+All the information on the disparity between men and women's earnings is taken from the government's [Gender pay gap service](https://gender-pay-gap.service.gov.uk/).
 
 
 ## Teachers' Pay
