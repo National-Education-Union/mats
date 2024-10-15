@@ -23,3 +23,7 @@ We took the pay data from [School workforce in England, Reporting year 2023](htt
 We compared the mean pay for each school with the mean in similar schools using the following metrics: school phase, pay region, size of school, proportion receiving pupils on free school meals, proportion of teachers with qualified teachers status, the proportion in each age band and the proportion on the leadership pay spine.
 
 We found the degree to which schools were above or below that average. We then accumulated the mean pay for the MAT with a weighted average and accumulated the similar schools mean and found the difference for the MAT.
+
+
+## Download data
+All the data on the dashboard is found in the [data folder](https://github.com/National-Education-Union/mats/tree/main/data).
