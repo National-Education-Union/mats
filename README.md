@@ -10,7 +10,11 @@ We accumulated the school totals by MAT. To even out variation we calculated a t
 The top slice taken by the MAT was calculated from the Department for Education's [Schools' Financial Benchmarking](https://schools-financial-benchmarking.service.gov.uk/Help/DataSources) website.
 The top slice data is for the academic year 2022-23 and can be download [here](https://sat1prsfb.blob.core.windows.net/sfb/SFB_Academies_2022-23_download.xlsx).
 
+### MAT Level
 To calculate the MAT top slice, we divided the total expenditure for the MAT (sheet CentralServices, column CC) by the sum of total income for the trust (sheet CentralServices, column BR) and all schools in the MAT (sheet Academies, column CN). 
+
+### School Level
+To calculate the top slice at school level, we summed the Revenue Reserve from 2021-22 and the In-Year Balance from 2022-23, we then subtracted the Revenue Reserve for 2022-23. 
 
 
 ## Gender Pay Pay
